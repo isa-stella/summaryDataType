@@ -22,7 +22,7 @@ public class Variables
         System.out.println("The Float data type is a single-precision 32-bit IEEE 754 floating point. Use a float if you need to save memory in large arrays of floating point numbers.");
         System.out.println("The Double data type a double-precision 64-bit IEEE 754 floating point. This data type should never be used for precise values.");
         System.out.println("The Boolean data type only uses true or false values. Use this data type for simple flags that track true/false conditions.");
-        System.out.println("The Char data type is a single 16-bit Unicode character.")
+        System.out.println("The Char data type is a single 16-bit Unicode character. It stores character data in a fixed-length field")
     }
 
 }
